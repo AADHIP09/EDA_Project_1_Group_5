@@ -4,8 +4,11 @@
 ### Team Members: Lydia Zuo, Aadhithya Prakash, Daryl Pinto, Supreet Ahuja
 ### Task Distribution
 Lydia - Initial cleaning of raw dataset, Question 1
+
 Aadhithya - Question 2 & 3, 
-Daryl - Secondary cleaning(code setup), Question 4
+
+Daryl - Secondary cleaning(code setup), Question 4,
+
 Supreet - Question 5 & 6
 
 
