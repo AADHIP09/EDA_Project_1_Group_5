@@ -50,7 +50,9 @@ Offer Description: Additional description provided in the car offer for sale
 
 ## Main Research Question: 
 What are the top selling brands?
-How do different factors affect price? 
+
+Which factor will affect Price & Sales? 
+
 
 ## Research Questions:
 Q1：How do the price and sales of secondary vehicles change from 1995 to 2023?  
