@@ -40,10 +40,15 @@ How do different factors affect price?
 
 ## Research Questions:
 Q1：How do the price and sales of secondary vehicles change from 1995 to 2023?  
+
 Q2: Which is the most popular Transmission type for used cars in Germany's secondary sales market? 
+
 Q3: In recently 3 years, What percentage of total sales volume for the year consisted of Hybrid/Electric
+
 Q4: How has horsepower affected the used cars price in Germany's secondary sales market in the last 5 years? Which are the top 3 brands?
+
 Q5: Which brand has sold the most in Germany's secondary sales market in the last 3 years? 
+
 Q6: Which brand has the most Market share in Germany's secondary sales market in the last 3 years?
 
 
