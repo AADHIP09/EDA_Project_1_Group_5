@@ -69,5 +69,17 @@ Q6: Which brand has the most Market share in Germany's secondary sales market in
 
 
 ## Key Takeaways
+1. Over 30 years, the price of the secondary vehicles have been trending upward； Used car sales also show an upward trend, but decline dramatic in 2019 and recover in 2021
+
+2. While manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold. 
+
+3. The analysis of the last 3 years of data indicates an increasing preference for Hybrid vehicles in the used-car market. The % of Hybrid cars went up from 11.9% in 2021 to 15.4% in 2023 (over 30% increase in 3 years). 
+
+4. There is a positive relationship between Power and Price. As Power increases, price will also increase.
+
+5. Used cars have the highest sales when it's fuel efficiency at 5/100km.
+
+6.  The top 5 Brands sold in Germany are Volkswagen 7731, Skoda 7044, Seat 6924, Opel 6773 and Ford 6557 units. And Skoda 
+ 
 
 
