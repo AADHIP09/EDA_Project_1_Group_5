@@ -23,16 +23,27 @@ The data has been sourced from one of Germany's largest car sales websites, Auto
 
 #### Data Description:
 Brand: The brand or manufacturer of the car.
+
 Model: The specific model of the car.
+
 Color: The color of the car's exterior.
+
 Registration Date: The date when the car was sold and registered (Month/Year). (Assumption for this project)
+
 Year of Production: The year in which the car was manufactured.
+
 Price in Euro: The price of the car in Euros.
+
 Power: The power of the car in kilowatts (kW) and horsepower (ps).
+
 Transmission Type: The type of transmission (e.g., automatic, manual).
+
 Fuel Type: The type of fuel the car requires.
+
 Fuel Consumption: Information about the car's fuel efficiency in Litres/100km ang grams/km.
+
 Mileage: The total distance traveled by the car in km.
+
 Offer Description: Additional description provided in the car offer for sale
 
 
