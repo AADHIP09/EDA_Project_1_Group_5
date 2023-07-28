@@ -219,7 +219,7 @@ Overall, the combination of environmental consciousness, government incentives, 
 
 1. **Stable market for top Brands:** The sales data for the top 5 car brands (Ford, Opel, Seat, Skoda, and Volkswagen) indicates a relatively stable market during the last 5 years. While there are fluctuations in the number of sales from year to year, the overall trend for these brands shows consistent demand and performance.
 
-[Figure 9](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%2010%20Brands-Last%205years%20Collectively.png)
+(https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%2010%20Brands-Last%205years%20Collectively.png)
 
 2. **Volkswagen's Market Share Stability:** Volkswagen, leads the Car market worldwide and has maintained a steady market share throughout the observed years. Although there are minor fluctuations in sales numbers, the overall market share for Volkswagen has remained relatively stable with almost every past year. 
 
