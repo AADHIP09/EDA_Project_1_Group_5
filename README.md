@@ -109,6 +109,9 @@ Based on what these two charts show, we ultimately decided to analyze the used c
 #### Analysis:
 Figure 3 shows sales by Transmission Type from 1995 to 2023, and Figure 4 shows the same data for just the last 5 years, in order to get a deeper understanding of the current scenario. Between 2019 and 2021, the overall used-car sales volume has gone down, and it can be attributed to the covid pandemicc, that had the same effect on all car sales.
 
+Figure 3: 
+!['Figure 3'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Line_chart_Sales_by_Transmission_All.png)
+
 Figure 4: 
 !['Figure 4'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3_folder/Output_data/Line_chart_Sales_by_Transmission.png)
 
