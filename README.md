@@ -223,11 +223,11 @@ Overall, the combination of environmental consciousness, government incentives, 
 
 2. **Volkswagen's Market Share Stability:** Volkswagen, leads the Car market worldwide and has maintained a steady market share throughout the observed years. Although there are minor fluctuations in sales numbers, the overall market share for Volkswagen has remained relatively stable with almost every past year. 
 
-[Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2019.png)
-[Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2020.png)
-[Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2021.png)
-[Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2022.png)
-[Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2023.png)
+![Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2019.png)
+![Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2020.png)
+![Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2021.png)
+![Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2022.png)
+![Figure 10](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2023.png)
 
 3. **Resilience during Economic Challenges:** The data shows that these top car brands have managed to sustain their sales despite economic challenges, such as the COVID-19 pandemic, which affected many industries, including the automotive sector. This resilience reflects the brand's strong market position and the ability to adapt to changing market conditions.
 
