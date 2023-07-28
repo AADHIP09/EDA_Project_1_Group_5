@@ -116,7 +116,7 @@ Figure 4:
 !['Figure 4'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Line_chart_Sales_by_Transmission.png)
 
 #### Conclusion:
-From figure 4, it can be inferred that while manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold, showing that Customers tend to prefer Automatic cars over Manual ones.
+From Figure 3, it can be inferred that while manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold, showing that Customers tend to prefer Automatic cars over Manual ones.
 
 
 #### **Question 3: What Percentage of Cars sold were Hybrid during the last 3 years?**
