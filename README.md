@@ -63,9 +63,10 @@ Q3: In recently 3 years, What percentage of total sales volume for the year cons
 
 Q4: How has horsepower affected the used cars price in Germany's secondary sales market in the last 5 years? Which are the top 3 brands?
 
-Q5: Which brand has sold the most in Germany's secondary sales market in the last 3 years? 
+Q5: Do Fuel efficiency affects Sales numbers and Is there a shift towards Hybrid cars
 
 Q6: Which brand has the most Market share in Germany's secondary sales market in the last 3 years?
+
 
 
 ## Key Takeaways
