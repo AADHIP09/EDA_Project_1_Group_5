@@ -17,6 +17,7 @@ The following project discusses and answers questions within the Automobile Indu
 
 
 ## Data Introduction
+
 #### Data Source: 
 The data has been sourced from one of Germany's largest car sales websites, AutoScout24,which were collected and made publicly available on Kaggle. This scraped dataset contains a wide range of information about car sales, covering cars manufactured and sold from year 1995 to 2023.
 
@@ -84,3 +85,77 @@ Q6: Which brand has the most Market share in Germany's secondary sales market in
  
 
 
+## Analysis & Conclusion
+#### Question 1：How do the price and sales of secondary vehicles change from 1995 to 2023? 
+##### Analysis:
+This problem presents the changes in car prices and sales in the German used car market between 1995 and 2023 using a line graph.
+
+The Figure 1 shows that there is a decreasing trend in the price of used cars from 1995 to 1999. From 2000 to 2005, the average price of used cars leveled off. From 2006, used car prices began to rise steadily until 2022 when prices began to fall.
+As can be seen on the Figure 2, used car sales trended upward in a straight line from 1995 to 2019, with the fastest rise from 2017 to 2019. After 2019, the number of used cars sold declined sharply until 2021 when it began to rise.
+![Figure 1](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q1_folder/output/Average_Prices_Years.png)
+
+##### Conclusion: 
+It is clear from the graph that starting in 2019, used car prices will begin to rise sharply. We analyze this as a result of the disruption in the supply chain of new cars since the beginning of the pandemic, which then led to a spike in prices. Used car prices have seen their biggest annual increase ever, and it's also clear from the Sales vs Year chart that as prices have increased, the number of used cars sold has decreased along with it. We analyze this as high priced used cars dampening consumer desire to buy. However, as the epidemic passes and the supply of new cars increases, the price of used cars begins to fall and the number of used cars sold gradually grows. Last year was a reality check for the used car industry after prices rose sharply in 2021. Judging by current trends, used car prices will likely continue to fall in 2024 as demand wanes.
+Based on what these two charts show, we ultimately decided to analyze the used car market over the last five years to analyze in more detail whether other factors have affected the market for used cars.
+
+#### Question 2: How many cars were sold annually in each transmission type?
+##### Analysis:
+The first chart in a line graph depicting sales by Transmission Type from 1995 to 2023, and the second is a line graph depicting the same data for just the last 5 years, in order to get a deeper understanding of the current scenario. Between 2019 and 2021, the overall used-car sales volume has gone down, and it can be attributed to the covid pandemic, that had the same effect on all car sales.
+##### Conclusion:
+From the 2 charts, it can be inferred that while manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold, showing that Customers tend to prefer Automatic cars over Manual ones.
+
+#### Question 3: What Percentage of Cars sold were Hybrid during the last 3 years?
+##### Analysis:
+The 3 pie charts illustrate the market share of various fuel types over the last 3 years. As expected, petrol vehicles have dominated the used-car market in all 3 years, making up over 60% of all sales in each year. In addition, it can also be seen that the market share of Diesel cars decreased over the years, while the market share of Hybrid cars has increased. The other fuel types, often making up a very small portion of the market, include CNG & LPG.
+ 
+##### Conclusion:
+The analysis of the last 3 years of data indicates an increasing preference for Hybrid vehicles in the used-car market. The % of Hybrid cars went up from around 11.9% in 2021 to over 15.4% in 2023 (over 30% increase in 3 years). The total number of hybrid vehicles sold in 2021 was approx. 1438. This number has now gone up to 2970 in 2023, showing a significant increase in interest in a short-span of time. 
+
+
+
+#### Question 4: How has horsepower(power_ps) affected the used cars price in Germany's secondary sales market in the last 5 years? Which are the top 3 brands?
+The question attempts to discover the relationship between two variables - horsepower(called power_ps), and price(called price_in_euro).  
+
+#### Analysis:
+The data was cleaned according to the requirements of the question(more details about the cleaning process can be found in the project proposal). Once we cleaned up the datasets and segregated them according to the requirements for our analysis, we created Data Visualizations and a correlation coefficient for horsepower and price for different brands and they’re models.
+
+For visualization, we plotted a scatter point and inserted a best-fit line to get a general idea of the relationship between the two variables. To confirm our hypothesis, we ran a correlation test.
+
+The correlation coefficient helps us determine the relationship between the two variables. If the value is 
+-Between -1 and 0 then the relationship is inverse or negative.
+-0 then the relationship is neutral, or there is no relationship.
+-Between 0 and 1, then the relationship is positive.
+
+It is important to note that Power is the independent variable and Price is the dependent variable
+
+Volkswagen : (overall brand) (check Appendix Q4.1 for visualization)
+The correlation coefficient for power and price is 0.453
+This means that there is a slightly positive relation between the two variables. As Power increases, Price will also increase.
+
+Skoda : (overall brand) (check Appendix Q4.2 for visualization)
+The correlation coefficient for power and price is 0.628
+This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
+
+Seat : (overall brand) (check Appendix Q4.3 for visualization)
+The correlation coefficient for power and price is 0.515
+This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
+
+Volkswagen Golf : (model) (check Appendix Q4.4 for visualization)
+The correlation coefficient for power and price is 0.571
+This means that there is a slightly positive relation between the two variables. As Power increases, Price will also increase.
+
+Volkswagen Caddy : (model) (check Appendix Q4.5 for visualization)
+The correlation coefficient for power and price is 0.161
+ This means that there is a close to neutral relation between the two variables. As Power increases, Price will also increase slightly.
+
+Volkswagen  T-Cross : (model) (check Appendix Q4.6 for visualization)
+The correlation coefficient for power and price is 0.344
+This means that there is a slightly positive relation between the two variables. As Power increases, Price will also increase slightly.
+
+Volkswagen T-Roc : (model) (check Appendix Q4.7 for visualization)
+The correlation coefficient for power and price is 0.404
+ This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
+
+Volkswagen Tiguan : (model) (check Appendix Q4.8 for visualization)
+The correlation coefficient for power and price is 0.615
+This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
