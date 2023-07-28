@@ -94,6 +94,8 @@ The Figure 1 shows that there is a decreasing trend in the price of used cars fr
 As can be seen on the Figure 2, used car sales trended upward in a straight line from 1995 to 2019, with the fastest rise from 2017 to 2019. After 2019, the number of used cars sold declined sharply until 2021 when it began to rise.
 !['Figure 1'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q1_folder/output/Average_Prices_Years.png)
 
+<img src="https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q1_folder/output/Average_Prices_Years.png" alt="Alt text" title="Figure 1">
+
 ##### Conclusion: 
 It is clear from the graph that starting in 2019, used car prices will begin to rise sharply. We analyze this as a result of the disruption in the supply chain of new cars since the beginning of the pandemic, which then led to a spike in prices. Used car prices have seen their biggest annual increase ever, and it's also clear from the Sales vs Year chart that as prices have increased, the number of used cars sold has decreased along with it. We analyze this as high priced used cars dampening consumer desire to buy. However, as the epidemic passes and the supply of new cars increases, the price of used cars begins to fall and the number of used cars sold gradually grows. Last year was a reality check for the used car industry after prices rose sharply in 2021. Judging by current trends, used car prices will likely continue to fall in 2024 as demand wanes.
 Based on what these two charts show, we ultimately decided to analyze the used car market over the last five years to analyze in more detail whether other factors have affected the market for used cars.
