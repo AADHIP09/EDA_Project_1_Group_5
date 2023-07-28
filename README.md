@@ -196,6 +196,10 @@ Volkswagen Tiguan : (model)
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Tiguan_Graph.png)
 
+**Conclusion:**
+
+Since all individual datasets provided a positive relationship after performing the correlation. It can be concluded that there is an overall positive relationship between Power and Price.
+
 
 #### **Question 5:  Do Fuel efficiency affect Sales numbers and Is there a shift towards Hybrid cars?**
 #### Analysis:
