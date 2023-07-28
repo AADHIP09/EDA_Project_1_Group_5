@@ -86,7 +86,7 @@ Q6: Which brand has the most Market share in Germany's secondary sales market in
 
 
 ## Analysis & Conclusion
-#### Question 1：How do the price and sales of secondary vehicles change from 1995 to 2023? 
+#### **Question 1：How do the price and sales of secondary vehicles change from 1995 to 2023?**
 ##### Analysis:
 This problem presents the changes in car prices and sales in the German used car market between 1995 and 2023 using a line graph.
 
@@ -105,7 +105,7 @@ It is clear from the graph that starting in 2019, used car prices will begin to 
 Based on what these two charts show, we ultimately decided to analyze the used car market over the last five years to analyze in more detail whether other factors have affected the market for used cars.
 
 
-#### Question 2: How many cars were sold annually in each transmission type?
+#### **Question 2: How many cars were sold annually in each transmission type?**
 ##### Analysis:
 Figure 3 shows sales by Transmission Type from 1995 to 2023, and Figure 4 shows the same data for just the last 5 years, in order to get a deeper understanding of the current scenario. Between 2019 and 2021, the overall used-car sales volume has gone down, and it can be attributed to the covid pandemicc, that had the same effect on all car sales.
 
@@ -115,7 +115,8 @@ Figure 4:
 ##### Conclusion:
 From figure 4, it can be inferred that while manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold, showing that Customers tend to prefer Automatic cars over Manual ones.
 
-#### Question 3: What Percentage of Cars sold were Hybrid during the last 3 years?
+
+#### **Question 3: What Percentage of Cars sold were Hybrid during the last 3 years?**
 ##### Analysis:
 The 3 pie charts illustrate the market share of various fuel types over the last 3 years. As expected, petrol vehicles have dominated the used-car market in all 3 years, making up over 60% of all sales in each year. In addition, it can also be seen that the market share of Diesel cars decreased over the years, while the market share of Hybrid cars has increased. The other fuel types, often making up a very small portion of the market, include CNG & LPG.
 
@@ -129,7 +130,7 @@ The analysis of the last 3 years of data indicates an increasing preference for 
 
 
 
-#### Question 4: How has horsepower(power_ps) affected the used cars price in Germany's secondary sales market in the last 5 years? Which are the top 3 brands?
+#### **Question 4: How has horsepower(power_ps) affected the used cars price in Germany's secondary sales market in the last 5 years? Which are the top 3 brands?**
 The question attempts to discover the relationship between two variables - horsepower(called power_ps), and price(called price_in_euro).  
 
 #### Analysis:
@@ -191,3 +192,54 @@ Volkswagen Tiguan : (model) (check Appendix Q4.8 for visualization)
     -This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Tiguan_Graph.png)
+
+
+#### **Question 5:  Do Fuel efficiency affect Sales numbers and Is there a shift towards Hybrid cars?**
+##### Analysis:
+There is a clear correlation between car sales and fuel efficiency, as evident from the graph. The data illustrates that the majority of car sales occur within the highly efficient fuel consumption range of 4 l/100 km to 8 l/100 km. The curve displays a symmetrical distribution, indicating that the left and right halves of the graph closely resemble one another.
+
+!['Figure 7'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Sales%20vs%20Fuel%20Efficiency%20Relation.png)
+
+Customers are increasingly gravitating towards highly efficient cars, particularly hybrid vehicles, signaling a shift in their preferences. The trend indicates a growing inclination towards more eco-friendly and sustainable transportation options, as customers prioritize fuel efficiency and environmental considerations in their car-buying decisions.
+
+!['Figure 8'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/hybrid_cars_over_last_5_years.png)
+
+
+##### Conclusion:
+Overall, the combination of environmental consciousness, government incentives, technological advancements, and changing consumer preferences has contributed to the rising trend of hybrid cars after the COVID-19 pandemic. As the world continues to prioritize sustainability and green initiatives, the popularity of hybrid cars is likely to continue to grow in the coming years.
+
+
+#### **Question 6: Identifying Top  5 Car Brands in Germany and doing analysis:**
+##### Analysis: 
+
+4 Main points are derived from the Analysis done. And sample Pie Charts are shared to support the analysis results and conclusions.
+
+1. **Stable market for top Brands:** The sales data for the top 5 car brands (Ford, Opel, Seat, Skoda, and Volkswagen) indicates a relatively stable market during the last 5 years. While there are fluctuations in the number of sales from year to year, the overall trend for these brands shows consistent demand and performance.
+
+['Figure 9'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%2010%20Brands-Last%205years%20Collectively.png)
+
+2. **Volkswagen's Market Share Stability:** Volkswagen, leads the Car market worldwide and has maintained a steady market share throughout the observed years. Although there are minor fluctuations in sales numbers, the overall market share for Volkswagen has remained relatively stable with almost every past year. 
+
+['Figure 10'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2019.png)
+['Figure 10'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2020.png)
+['Figure 10'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2021.png)
+['Figure 10'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2022.png)
+['Figure 10'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q5_Q6_folder/output/Market-Share-Top%205%20Favorite%20Brands2023.png)
+
+3. **Resilience during Economic Challenges:** The data shows that these top car brands have managed to sustain their sales despite economic challenges, such as the COVID-19 pandemic, which affected many industries, including the automotive sector. This resilience reflects the brand's strong market position and the ability to adapt to changing market conditions.
+
+4. **Ford's presence in the German car market:** This cannot be overlooked. As a prominent international brand, Ford has secured its position (top 5 brandsin last 5 years) by delivering fuel efficient vehicles at competitive prices.
+
+
+
+
+## The Interesting findings during the project 
+
+The shocking and different trend seen in the German car market is the dominance of domestic brands. German car brands like Volkswagen, Audi, BMW, and Mercedes-Benz collectively hold a significant market share, accounting for more than 24% of the total car sales. This indicates a strong preference among German consumers for cars made by their own country's manufacturers.
+
+Additionally, Skoda, a brand owned by the Volkswagen Group, also holds a substantial market share, further reinforcing the popularity of German automotive brands in their home market.
+
+On the other hand, we can observe that non-German brands (especially Japanese brands), with the exception of Skoda, have relatively smaller market shares. This indicates that foreign car manufacturers face intense competition in Germany, which is often referred to as the home turf of renowned German automotive brands.
+
+Overall, the data reflects the strong brand loyalty and preference for domestic German car manufacturers in the German car market, creating a unique and distinctive trend compared to other global automotive markets.
+
