@@ -154,43 +154,43 @@ Volkswagen : (overall brand)
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Volkswagen_Graph.png)
 
-Skoda : (overall brand) (check Appendix Q4.2 for visualization)
+Skoda : (overall brand) 
     -The correlation coefficient for power and price is 0.628
     -This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Skoda_Graph.png)
 
-Seat : (overall brand) (check Appendix Q4.3 for visualization)
+Seat : (overall brand) 
     -The correlation coefficient for power and price is 0.515
     -This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Seat_Graph.png)
 
-Volkswagen Golf : (model) (check Appendix Q4.4 for visualization)
+Volkswagen Golf : (model) 
     -The correlation coefficient for power and price is 0.571
     -This means that there is a slightly positive relation between the two variables. As Power increases, Price will also increase.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Golf_Graph.png)
 
-Volkswagen Caddy : (model) (check Appendix Q4.5 for visualization)
+Volkswagen Caddy : (model) 
     -The correlation coefficient for power and price is 0.161
     -This means that there is a close to neutral relation between the two variables. As Power increases, Price will also increase slightly.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/Caddy_Graph.png)
 
-Volkswagen  T-Cross : (model) (check Appendix Q4.6 for visualization)
+Volkswagen  T-Cross : (model) 
     -The correlation coefficient for power and price is 0.344
     -This means that there is a slightly positive relation between the two variables. As Power increases, Price will also increase slightly.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/T-Cross_Graph.png)
 
-Volkswagen T-Roc : (model) (check Appendix Q4.7 for visualization)
+Volkswagen T-Roc : (model) 
     -The correlation coefficient for power and price is 0.404
     -This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
 
 !['Figure 6'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q4_folder/Output/T-Roc_Graph.png)
 
-Volkswagen Tiguan : (model) (check Appendix Q4.8 for visualization)
+Volkswagen Tiguan : (model)
     -The correlation coefficient for power and price is 0.615
     -This means that there is a positive relation between the two variables. As Power increases, Price will also increase.
 
