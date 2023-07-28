@@ -113,7 +113,7 @@ Figure 3:
 !['Figure 3'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Line_chart_Sales_by_Transmission_All.png)
 
 Figure 4: 
-!['Figure 4'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3_folder/Output_data/Line_chart_Sales_by_Transmission.png)
+!['Figure 4'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Line_chart_Sales_by_Transmission.png)
 
 #### Conclusion:
 From figure 4, it can be inferred that while manual transmission vehicles were more preferred in the used-car market in Germany in the early 2000s, the preference has changed over the last 10 years. Since around 2016, there has been a steep increase in the number of Automatic vehicles sold, showing that Customers tend to prefer Automatic cars over Manual ones.
@@ -124,9 +124,9 @@ From figure 4, it can be inferred that while manual transmission vehicles were m
 The 3 pie charts illustrate the market share of various fuel types over the last 3 years. As expected, petrol vehicles have dominated the used-car market in all 3 years, making up over 60% of all sales in each year. In addition, it can also be seen that the market share of Diesel cars decreased over the years, while the market share of Hybrid cars has increased. The other fuel types, often making up a very small portion of the market, include CNG & LPG.
 
 Figure 5: 
-!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3_folder/Output_data/Pie_chart_Fuel_type_2021.png)
-!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3_folder/Output_data/Pie_chart_Fuel_type_2022.png)
-!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3_folder/Output_data/Pie_chart_Fuel_type_2023.png)
+!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Pie_chart_Fuel_type_2021.png)
+!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Pie_chart_Fuel_type_2022.png)
+!['Figure 5'](https://github.com/AADHIP09/EDA_Project_1_Group_5/blob/main/Q2_Q3%20Folder_AP/Output_data/Pie_chart_Fuel_type_2023.png)
  
 #### Conclusion:
 The analysis of the last 3 years of data indicates an increasing preference for Hybrid vehicles in the used-car market. The % of Hybrid cars went up from around 11.9% in 2021 to over 15.4% in 2023 (over 30% increase in 3 years). The total number of hybrid vehicles sold in 2021 was approx. 1438. This number has now gone up to 2970 in 2023, showing a significant increase in interest in a short-span of time. 
